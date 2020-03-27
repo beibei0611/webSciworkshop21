@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## WebSci'20 workshop: evolutionary thinking for the Web
 
-You can use the [editor on GitHub](https://github.com/mpriestley/mpriestley.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Some of the most compelling descriptions of the Web utilise evolutionary metaphors. The Web has been likened to an ecosystem that entails processes of competition and adaptation (Berners-Lee et al 2006). While many discussions attribute biological qualities to the Web, it is harder to find references to empirical studies that examine Web evolution in similar ways to how a biologist might examine analogous processes in the natural world. There is, however, an active community of academics already carrying out research at the intersection of evolution and the Web. This interdisciplinary workshop aims to provide an opportunity for these researchers to come together, exchange views and establish collaboration. The workshop will consist of one or two talks followed by an interactive panel session. We will discuss some of the theoretical and empirical opportunities provided by evolutionary and cognitive approaches for the study of social and technological change on the Web. Researchers who are working on projects in this area are invited to submit papers.
 
 ### Markdown
 
