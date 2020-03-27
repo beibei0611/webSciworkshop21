@@ -1,7 +1,10 @@
 ### WebSci'20 workshop:
 ## Evolutionary thinking for the Web
 
-description
+The Web has been attributed with compelling evolutionary qualities, where it is likened to an ecosystem that entails processes of competition and adaptation. However, these biological metaphors have been discussed largely through informal means. This workshop aims to bring together active communities of academics already carrying out research at the intersection of evolution and the Web. By providing an opportunity for these researchers to come together, we hope to exchange views and establish collaboration. The workshop will consist of one or two talks followed by an interactive panel session. We will discuss some of the theoretical and empirical opportunities provided by evolutionary and cognitive approaches for the study of social and technological change on the Web. Researchers who are working on projects related to this theme are invited to submit short papers.
+
+### Programme
+To be confirmed.
 
 ### Important Dates
 
@@ -13,10 +16,19 @@ July 8, 2020 - Optional poster reception
 Workshop papers will be published in a companion collection of the ACM WebSci'20 proceedings. 
 Authors are also encouraged to showcase their work in the form of posters on 8 July at the joint conference and workshop poster reception. 
 
+### Submission Details
+
+We invite short papers on themes such as:  
+- foo  
+- foo  
+- foo  
+
+Papers should be 2-3 pages long and formatted according to the ACM SIG Conference proceedings template, available at https://www.acm.org/publications/proceedings-template. Please submit papers via EasyChair at ref. 
+
 ### Organisers
-Maria Priestley (main contact), University of Southampton, mp5g15@soton.ac.uk
-Dr Thanassis Tiropanis, University of Southampton
-Professor Timothy Sluckin, University of Southampton
+Maria Priestley, University of Southampton, mp5g15@soton.ac.uk  
+Dr Thanassis Tiropanis, University of Southampton  
+Professor Timothy Sluckin, University of Southampton  
 
 ```markdown
 Syntax highlighted code block
