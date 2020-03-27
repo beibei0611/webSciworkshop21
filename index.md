@@ -5,10 +5,10 @@ description
 
 ### Important Dates
 
-April 17, 2020 - Workshop paper submission deadline
-May 15, 2020 - Camera ready papers due 
-July 7, 2020 - Workshop date 
-July 8, 2020 - Optional poster reception
+April 17, 2020 - Workshop paper submission deadline  
+May 15, 2020 - Camera ready papers due  
+July 7, 2020 - Workshop date  
+July 8, 2020 - Optional poster reception  
 
 Workshop papers will be published in a companion collection of the ACM WebSci'20 proceedings. 
 Authors are also encouraged to showcase their work in the form of posters on 8 July at the joint conference and workshop poster reception. 
