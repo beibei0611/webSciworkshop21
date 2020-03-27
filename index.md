@@ -1,10 +1,22 @@
-## WebSci'20 workshop: evolutionary thinking for the Web
+### WebSci'20 workshop:
+## Evolutionary thinking for the Web
 
-Some of the most compelling descriptions of the Web utilise evolutionary metaphors. The Web has been likened to an ecosystem that entails processes of competition and adaptation (Berners-Lee et al 2006). While many discussions attribute biological qualities to the Web, it is harder to find references to empirical studies that examine Web evolution in similar ways to how a biologist might examine analogous processes in the natural world. There is, however, an active community of academics already carrying out research at the intersection of evolution and the Web. This interdisciplinary workshop aims to provide an opportunity for these researchers to come together, exchange views and establish collaboration. The workshop will consist of one or two talks followed by an interactive panel session. We will discuss some of the theoretical and empirical opportunities provided by evolutionary and cognitive approaches for the study of social and technological change on the Web. Researchers who are working on projects in this area are invited to submit papers.
+description
 
-### Markdown
+### Important Dates
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+April 17, 2020 - Workshop paper submission deadline
+May 15, 2020 - Camera ready papers due 
+July 7, 2020 - Workshop date 
+July 8, 2020 - Optional poster reception
+
+Workshop papers will be published in a companion collection of the ACM WebSci'20 proceedings. 
+Authors are also encouraged to showcase their work in the form of posters on 8 July at the joint conference and workshop poster reception. 
+
+### Organisers
+Maria Priestley (main contact), University of Southampton, mp5g15@soton.ac.uk
+Dr Thanassis Tiropanis, University of Southampton
+Professor Timothy Sluckin, University of Southampton
 
 ```markdown
 Syntax highlighted code block
