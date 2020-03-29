@@ -6,7 +6,7 @@ The Web has been the subject of compelling biological metaphors that liken it to
 ### Call for papers
 We invite paper submissions on topics such as:  
 - the application of evolutionary theory to social and technological trends on the Web
-- empirical opportunities and technical tools to study evolution in the Web
+- technical tools to study evolution in the Web
 - critical discussion or literature review of these themes
 
 Papers can be up to 6 pages long and formatted according to the [ACM SIG Conference proceedings template](https://www.acm.org/publications/proceedings-template). Please submit your paper via EasyChair at ref.   
