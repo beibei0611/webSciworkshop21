@@ -10,6 +10,7 @@ We invite paper submissions on topics such as:
 - critical discussion or literature review of these themes
 
 Papers can be up to 6 pages long and formatted according to the [ACM SIG Conference proceedings template](https://www.acm.org/publications/proceedings-template). Please submit your paper via EasyChair at [https://easychair.org/conferences/?conf=etfw20](https://easychair.org/conferences/?conf=etfw20).   
+
 Accepted workshop papers will be published in a companion collection of the ACM WebSci'20 proceedings.
 
 ### Important Dates
