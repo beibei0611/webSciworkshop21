@@ -1,7 +1,7 @@
 ### WebSci'20 Workshop:
 ## Evolutionary thinking for the Web
 
-The Web has been the subject of compelling biological metaphors that liken it to an evolving ecosystem. Analogies of this kind could benefit from further theoretical and empirical examination through the lens of evolutionary and cognitive approaches. This half-day workshop (hosted by the [Web Science conference](https://websci20.webscience.org/)) aims to bring together researchers who work at the intersection of evolution and the Web. Evolutionary approaches are increasingly crossing disciplinary boundaries, including (but not limited to) fields such as network and complexity sciences, anthropology, computer science and social psychology. The workshop provides an opportunity for researchers from these diverse disciplines to come together, exchange views and establish collaboration.
+The Web has been the subject of compelling biological metaphors that liken it to an evolving ecosystem. Analogies of this kind could benefit from further theoretical and empirical examination through the lens of evolutionary and cognitive approaches. This half-day workshop (hosted by the [Web Science conference](https://websci20.webscience.org/)) aims to bring together researchers who work at the intersection of evolution and the Web. Evolutionary approaches are increasingly crossing disciplinary boundaries, including (but not limited to) fields such as network and complexity sciences, anthropology, computer science and social psychology. This workshop provides an opportunity for researchers from these diverse disciplines to come together, exchange views and establish collaboration.
 
 ### Call for papers
 We invite short paper submissions on topics such as:  
@@ -9,9 +9,7 @@ We invite short paper submissions on topics such as:
 - computational tools to study evolution in the Web
 - critical discussion or literature review of these themes
 
-Contributions should aim, wherever possible, to cross traditional disciplinary boundaries.
-
-Papers can be up to 8 pages long and formatted according to the [ACM SIG Conference proceedings template](https://www.acm.org/publications/proceedings-template). Please submit your paper via [EasyChair](https://easychair.org/conferences/?conf=etfw20).   
+Contributions should aim, wherever possible, to cross traditional disciplinary boundaries. Papers can be up to 8 pages long and formatted according to the [ACM SIG Conference proceedings template](https://www.acm.org/publications/proceedings-template). Please submit your paper via [EasyChair](https://easychair.org/conferences/?conf=etfw20).   
 
 Accepted workshop papers will be published in a companion collection of the ACM WebSci'20 proceedings.
 
