@@ -1,7 +1,7 @@
 ### WebSci'20 Workshop:
 ## Evolutionary thinking for the Web
 
-The Web has been the subject of compelling biological metaphors that liken it to an evolving ecosystem. Analogies of this kind could benefit from further theoretical and empirical examination through the lens of evolutionary and cognitive approaches. This half-day workshop (hosted by the [Web Science conference](https://websci20.webscience.org/)) aims to bring together researchers who work at the intersection of evolution and the Web. Evolutionary approaches are increasingly crossing disciplinary boundaries, including (but not limited to) fields such as network and complexity sciences, anthropology, computer science and social psychology. The workshop provides an opportunity for these diverse disciplines to come together, exchange views and establish collaboration.
+The Web has been the subject of compelling biological metaphors that liken it to an evolving ecosystem. Analogies of this kind could benefit from further theoretical and empirical examination through the lens of evolutionary and cognitive approaches. This half-day workshop (hosted by the [Web Science conference](https://websci20.webscience.org/)) aims to bring together researchers who work at the intersection of evolution and the Web. Evolutionary approaches are increasingly crossing disciplinary boundaries, including (but not limited to) fields such as network and complexity sciences, anthropology, computer science and social psychology. The workshop provides an opportunity for researchers from these diverse disciplines to come together, exchange views and establish collaboration.
 
 ### Call for papers
 We invite short paper submissions on topics such as:  
