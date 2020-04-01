@@ -9,7 +9,7 @@ We invite short paper submissions on topics such as:
 - computational tools to study evolution in the Web
 - critical discussion or literature review of these themes
 
-Contributions should aim, wherever possible, to cross traditional disciplinary boundaries. Papers can be up to 8 pages long and formatted according to the [ACM SIG Conference proceedings template](https://www.acm.org/publications/proceedings-template). Please submit your paper via [EasyChair](https://easychair.org/conferences/?conf=etfw20).   
+Contributions should aim, wherever possible, to cross traditional disciplinary boundaries. Papers can be up to 8 pages long and should be formatted according to the [ACM SIG Conference proceedings template](https://www.acm.org/publications/proceedings-template). Please submit your paper via [EasyChair](https://easychair.org/conferences/?conf=etfw20).   
 
 Accepted workshop papers will be published in a companion collection of the ACM WebSci'20 proceedings.
 
