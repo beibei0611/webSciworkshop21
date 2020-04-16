@@ -15,7 +15,7 @@ Accepted workshop papers will be published in a companion collection of the ACM 
 
 ### Important Dates
 
-April 17, 2020 - Workshop paper submission deadline  
+~~April 17~~ April 24, 2020 - Workshop paper submission deadline [extended]  
 May 15, 2020 - Camera ready papers due  
 July 7, 2020 - Workshop date  
 July 8, 2020 - Optional poster reception  
