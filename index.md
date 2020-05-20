@@ -3,31 +3,28 @@
 
 The Web has been the subject of compelling biological metaphors that liken it to an evolving ecosystem. Analogies of this kind could benefit from further theoretical and empirical examination through the lens of evolutionary and cognitive approaches. This half-day workshop (hosted by the [Web Science conference](https://websci20.webscience.org/)) aims to bring together researchers who work at the intersection of evolution and the Web. Evolutionary approaches are increasingly crossing disciplinary boundaries, including (but not limited to) fields such as network and complexity sciences, anthropology, computer science and social psychology. This workshop provides an opportunity for researchers from these diverse disciplines to come together, exchange views and establish collaboration.
 
-### Call for papers
+### Call for papers [Submission is now closed]
 We invite short paper submissions on topics such as:  
 - the application of evolutionary theory to social and technological trends on the Web
 - computational tools to study evolution in the Web
 - critical discussion or literature review of these themes
 
-Contributions should aim, wherever possible, to cross traditional disciplinary boundaries. Papers can be up to 8 pages long and should be formatted according to the [ACM SIG Conference proceedings template](https://www.acm.org/publications/proceedings-template). ~~Please submit your paper via [EasyChair](https://easychair.org/conferences/?conf=etfw20)~~. [Submission is now closed]
+Contributions should aim, wherever possible, to cross traditional disciplinary boundaries. Papers can be up to 8 pages long and should be formatted according to the [ACM SIG Conference proceedings template](https://www.acm.org/publications/proceedings-template). ~~Please submit your paper via [EasyChair](https://easychair.org/conferences/?conf=etfw20)~~.
 
-Accepted workshop papers will be published in a companion collection of the ACM WebSci'20 proceedings.
 
 ### Important Dates
 
 ~~April 17, 2020 - Workshop paper submission deadline~~  
 ~~April 24, 2020 - Workshop paper submission deadline [extended]~~  
-May 15, 2020 - Camera ready papers due  
+~~May 15, 2020 - Camera ready papers due~~  
 July 7, 2020 - Workshop date  
-July 8, 2020 - Optional poster reception  
-Authors are encouraged to showcase their work in the form of posters on 8 July at the joint conference and workshop poster reception.
 
-Information regarding conference registration and [student travel awards](https://websci20.webscience.org/financial-support-for-students/) is available on the official [WebSci'20 website](https://websci20.webscience.org/).
+Information regarding conference registration will become available on the official [WebSci'20 website](https://websci20.webscience.org/).
 
 ### Workshop Programme
 To be confirmed.  
 
-Due to the Coronavirus (COVID-19), the conference organisers are currently exploring opportunities for online (remote) participation. We will share updates on this webpage and via email to all authors. 
+Due to the Coronavirus (COVID-19), the workshop will be run online. We will share updates on this webpage and via email to all participants. 
 
 ### Description of Workshop Theme
 
@@ -37,7 +34,7 @@ This kind of thinking complements the intention of Web Science to analyse and di
 
 The biological roots of evolutionary and cognitive approaches provide not only a compelling theoretical framework, but also a heritage of robust analytic tools that seek to quantify complex and subjective social phenomena. The goal of this workshop will be to introduce evolutionary theory and methods through speakers who have applied them in their own research. We will also invite the participants to share Web Science topics that are of interest to them, so that we can discuss how these themes might be addressed using evolutionary and cognitive approaches.  
 
-This workshop will bring into conversation social science and computer science researchers who may not have had the opportunity to come together previously. Scholars, researchers and students at any stage of their career and an interest in Web evolution are invited to attend and submit papers related to the workshop theme.
+This workshop will bring into conversation social science and computer science researchers who may not have had the opportunity to come together previously. Scholars, researchers and students at any stage of their career and an interest in Web evolution are invited to participate.
 
 ### Organisers
 [Maria Priestley](https://www.ecs.soton.ac.uk/people/mp5g15), University of Southampton  
