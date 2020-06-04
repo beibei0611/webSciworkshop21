@@ -10,7 +10,7 @@ Provisional Programme (UK time):
 14:00 – 14:10 Workshop line opens: dial in & introductions   
 14:10 – 14:20 Welcome and introduction from the organisers   
 14:20 – 15:50 Individual panel presentations and Q&A  
-16:00 – 16:50 Roundtable discussion
+16:00 – 16:50 Roundtable discussion  
 16:50 – 17:00 Closing remarks    
 
 ## Panellists:
@@ -23,8 +23,8 @@ Provisional Programme (UK time):
 
 ### Caroline Wilson
 
-### Wolfgang Nejdl (tbc)
-&nbsp  
+### Wolfgang Nejdl (tbc)  
+  
 
 ## Background
 
