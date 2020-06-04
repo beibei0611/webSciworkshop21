@@ -24,7 +24,7 @@ Provisional Programme (UK time):
 ### Caroline Wilson
 
 ### Wolfgang Nejdl (tbc)  
-  
+<p>&nbsp;</p>
 
 ## Background
 
