@@ -6,7 +6,7 @@ The Web has been the subject of compelling biological metaphors that liken it to
 This half-day workshop (hosted online by the [Web Science conference](https://websci20.webscience.org/)) features an extended panel session with speakers who have been pioneering work at the intersection of evolution and the Web. The discussion will bring into conversation perspectives from evolutionary anthropology, cognitive sciences and engineering, as well as legal and ethical considerations on Web evolution.
 
 ### Workshop date - July 7, 2020 
-Provisional Programme (UK time):
+Provisional Programme (UK time):   
 14:00 – 14:10 Workshop line opens: dial in & introductions   
 14:10 – 14:20 Welcome and introduction from the organisers   
 14:20 – 15:50 Individual panel presentations and Q&A  
@@ -15,7 +15,7 @@ Provisional Programme (UK time):
 
 ## Panellists:
 ### [Alberto Acerbi](https://acerbialberto.com/) – “Cultural evolution on the web”
-Cultural evolution - a byword for evolutionary and cognitive approaches to human culture - can provide a useful framework to understand how information is produced, transmitted, and selected on the web. Human culture is cumulative, meaning that it increases in complexity and efficiency from one generation to another, drawing on past innovations. Cumulation, however, differs depending on the specific domain. Two features of cultural systems impact the velocity and the robustness of cumulation: availability, i.e. the number of possible cultural traits one has access to, and fidelity of transmission, i.e. the degree to which cultural traits are preserved during transmission. I will discuss how the diffusion of online digital media increases both availability and fidelity, thus boosting the potential for cultural cumulation, possibly in domains where it was before limited. 
+"Cultural evolution - a byword for evolutionary and cognitive approaches to human culture - can provide a useful framework to understand how information is produced, transmitted, and selected on the web. Human culture is cumulative, meaning that it increases in complexity and efficiency from one generation to another, drawing on past innovations. Cumulation, however, differs depending on the specific domain. Two features of cultural systems impact the velocity and the robustness of cumulation: availability, i.e. the number of possible cultural traits one has access to, and fidelity of transmission, i.e. the degree to which cultural traits are preserved during transmission. I will discuss how the diffusion of online digital media increases both availability and fidelity, thus boosting the potential for cultural cumulation, possibly in domains where it was before limited." 
 
 ### [Paul Smart](http://paulsmart.cognosys.co.uk/)
 
@@ -24,7 +24,7 @@ Cultural evolution - a byword for evolutionary and cognitive approaches to human
 ### Caroline Wilson
 
 ### Wolfgang Nejdl (tbc)
-
+&nbsp  
 
 ## Background
 
