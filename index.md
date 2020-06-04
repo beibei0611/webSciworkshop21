@@ -6,26 +6,27 @@ The Web has been the subject of compelling biological metaphors that liken it to
 This half-day workshop (hosted online by the [Web Science conference](https://websci20.webscience.org/)) features an extended panel session with speakers who have been pioneering work at the intersection of evolution and the Web. The discussion will bring into conversation perspectives from evolutionary anthropology, cognitive sciences and engineering, as well as legal and ethical considerations on Web evolution.
 
 ### Workshop date - July 7, 2020 
-### Provisional Programme (UK time)
+Provisional Programme (UK time):
 14:00 – 14:10 Workshop line opens: dial in & introductions   
 14:10 – 14:20 Welcome and introduction from the organisers   
-14:20 – 15:50 Individual panel presentations and Q&A (with a 10 minute coffee break at 15:20)   
-16:00 – 16:50 Roundtable discussion – “Towards a roadmap for the study of Web evolution”   
+14:20 – 15:50 Individual panel presentations and Q&A  
+16:00 – 16:50 Roundtable discussion
 16:50 – 17:00 Closing remarks    
 
-## Panellists
-### Alberto Acerbi – “Cultural evolution on the web”
+## Panellists:
+### [Alberto Acerbi](https://acerbialberto.com/) – “Cultural evolution on the web”
 Cultural evolution - a byword for evolutionary and cognitive approaches to human culture - can provide a useful framework to understand how information is produced, transmitted, and selected on the web. Human culture is cumulative, meaning that it increases in complexity and efficiency from one generation to another, drawing on past innovations. Cumulation, however, differs depending on the specific domain. Two features of cultural systems impact the velocity and the robustness of cumulation: availability, i.e. the number of possible cultural traits one has access to, and fidelity of transmission, i.e. the degree to which cultural traits are preserved during transmission. I will discuss how the diffusion of online digital media increases both availability and fidelity, thus boosting the potential for cultural cumulation, possibly in domains where it was before limited. 
 
-### Paul Smart
+### [Paul Smart](http://paulsmart.cognosys.co.uk/)
 
-### Jim Hendler
+### [Jim Hendler](https://en.wikipedia.org/wiki/James_Hendler)
 
 ### Caroline Wilson
 
 ### Wolfgang Nejdl (tbc)
 
-## Background Theme
+
+## Background
 
 In the recent decades, evolutionary approaches have been gathering momentum across academics from a wide range of disciplines that seek to understand the emergent diversity and complexity of technologies and cultural traits. The main premise of this research is that small-scale evolutionary mechanisms operate gradually to create changes that are observable on a larger scale ([Mesoudi, 2011](https://www.amazon.co.uk/Cultural-Evolution-Darwinian-Synthesize-Sciences/dp/0226520447)). This thinking complements the intention of Web Science to analyse the microscopic laws that generate emergent behaviour and patterns in the Web ([Berners-Lee et al, 2006](https://science.sciencemag.org/content/313/5788/769)). 
 
