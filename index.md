@@ -7,11 +7,11 @@ This half-day workshop (hosted online by the [Web Science conference](https://we
 
 ### Workshop date - July 7, 2020 
 Provisional Programme (UK time):   
-14:00 – 14:10 Workshop line opens: dial in & introductions   
-14:10 – 14:20 Welcome and introduction from the organisers   
-14:20 – 15:50 Individual panel presentations and Q&A  
-16:00 – 16:50 Roundtable discussion  
-16:50 – 17:00 Closing remarks    
+14:00 – 14:10   Workshop line opens: dial in & introductions   
+14:10 – 14:20   Welcome and introduction from the organisers   
+14:20 – 15:50   Individual panel presentations and Q&A  
+16:00 – 16:50   Roundtable discussion  
+16:50 – 17:00   Closing remarks    
 
 ## Panellists:
 ### [Alberto Acerbi](https://acerbialberto.com/) – “Cultural evolution on the web”
