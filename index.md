@@ -37,7 +37,7 @@ Insights from evolutionary and cognitive approaches hold promise for the future 
 
 ### Organisers
 [Maria Priestley](https://www.ecs.soton.ac.uk/people/mp5g15), University of Southampton  
-[Dr Thanassis Tiropanis](https://www.ecs.soton.ac.uk/people/at1o07), University of Southampton  
-[Professor Tim Sluckin](https://www.southampton.ac.uk/maths/about/staff/tim.page), University of Southampton  
+[Thanassis Tiropanis](https://www.ecs.soton.ac.uk/people/at1o07), University of Southampton  
+[Tim Sluckin](https://www.southampton.ac.uk/maths/about/staff/tim.page), University of Southampton  
 
 If you have any queries, please email Maria Priestley: mp5g15@soton.ac.uk
