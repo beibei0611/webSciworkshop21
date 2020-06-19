@@ -21,8 +21,6 @@ Provisional Programme (UK time):
 
 ### [Jim Hendler](https://en.wikipedia.org/wiki/James_Hendler)
 
-### Caroline Wilson
-
 ### Wolfgang Nejdl (tbc)  
 <p>&nbsp;</p>
 
