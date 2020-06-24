@@ -23,12 +23,15 @@ To register for this workshop as part of the WebSci'20 conference, please visit:
 
 Alberto Acerbi is a lecturer in Psychology at the Centre for Culture and Evolution, Brunel University London. His research interests are in cognitive and evolutionary anthropology, with a particular interest in computational science. Alberto recently wrote the book [“Cultural evolution in the digital age”](https://global.oup.com/academic/product/cultural-evolution-in-the-digital-age-9780198835943?cc=gb&lang=en&) for Oxford University Press.
 <p>&nbsp;</p>
+
 ### [Dr Paul Smart](http://paulsmart.cognosys.co.uk/)
 Paul Smart is a senior research fellow in Electronics and Computer Science at the University of Southampton. His research interests lie at the interface of the network, web and cognitive sciences. Paul’s [recent work](http://paulsmart.cognosys.co.uk/pubs/2017/Machine%20Intelligence%20and%20the%20Social%20Web.pdf?LMCL=ND9E1e) has explored the notion of ecological engineering/niche construction and the ‘evolution’ of human/machine intelligence, with the Internet/Web as a central topic of concern.
 <p>&nbsp;</p>
+
 ### [Professor James Hendler](https://en.wikipedia.org/wiki/James_Hendler)
 James Hendler is the Director of the Institute for Data Exploration and Applications and the Tetherless World Professor of Computer, Web and Cognitive Sciences at the Rensselaer Polytechnic Institute (RPI). James has authored over 400 books, technical papers and articles in areas such as the Semantic Web and artificial intelligence. One of his interests is the evolution of [social machines](https://www.sciencedirect.com/science/article/pii/S0004370209001404) through the accumulated knowledge and interactions of humankind.
 <p>&nbsp;</p>
+
 ### [Professor Wolfgang Nejdl](https://www.kbs.uni-hannover.de/~nejdl/)
 <p>&nbsp;</p>
 
