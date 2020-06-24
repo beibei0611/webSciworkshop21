@@ -24,7 +24,7 @@ Provisional Programme (UK time):
 ### Wolfgang Nejdl (tbc)  
 <p>&nbsp;</p>
 
-### Registration
+## Registration
 To register for this workshop as part of the WebSci'20 conference, please visit: https://websci20.webscience.org/
 
 ## Background
