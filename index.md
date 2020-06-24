@@ -3,7 +3,7 @@
 
 The Web has been the subject of compelling biological metaphors that liken it to an evolving ecosystem. Analogies of this kind could benefit from further theoretical and empirical examination. Evolutionary and cognitive approaches provide not only a powerful theoretical framework to address this theme, but also a heritage of robust analytic tools that can help to quantify complex and subjective social and technological phenomena. The goal of this workshop will be to discuss how evolutionary approaches can inform our understanding of the Web at present, as well as methodological challenges and opportunities to shape its evolution into the future.   
 
-This half-day workshop (hosted online by the [Web Science conference](https://websci20.webscience.org/)) features an extended panel session with speakers who have been pioneering work at the intersection of evolution and the Web. The discussion will bring into conversation perspectives from evolutionary anthropology, cognitive sciences and engineering, as well as legal and ethical considerations on Web evolution.
+This half-day workshop (hosted online by the [Web Science conference](https://websci20.webscience.org/)) features an extended panel session with speakers who have been pioneering work at the intersection of evolution and the Web. The discussion will bring into conversation perspectives from evolutionary anthropology, cognitive sciences and engineering.
 
 ### Workshop date - July 7, 2020 
 Provisional Programme (UK time):   
@@ -11,7 +11,11 @@ Provisional Programme (UK time):
 14:10 – 14:20   Welcome and introduction from the organisers   
 14:20 – 15:50   Individual panel presentations and Q&A  
 16:00 – 16:50   Roundtable discussion  
-16:50 – 17:00   Closing remarks    
+16:50 – 17:00   Closing remarks   
+
+### Registration
+To register for this workshop as part of the WebSci'20 conference, please visit: https://websci20.webscience.org/
+
 
 ## Panellists:
 ### [Alberto Acerbi](https://acerbialberto.com/) – “Cultural evolution on the web”
@@ -23,9 +27,6 @@ Provisional Programme (UK time):
 
 ### Wolfgang Nejdl (tbc)  
 <p>&nbsp;</p>
-
-## Registration
-To register for this workshop as part of the WebSci'20 conference, please visit: https://websci20.webscience.org/
 
 ## Background
 
