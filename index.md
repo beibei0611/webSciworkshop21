@@ -22,13 +22,13 @@ To register for this workshop as part of the WebSci'20 conference, please visit:
 "Cultural evolution - a byword for evolutionary and cognitive approaches to human culture - can provide a useful framework to understand how information is produced, transmitted, and selected on the web. Human culture is cumulative, meaning that it increases in complexity and efficiency from one generation to another, drawing on past innovations. Cumulation, however, differs depending on the specific domain. Two features of cultural systems impact the velocity and the robustness of cumulation: availability, i.e. the number of possible cultural traits one has access to, and fidelity of transmission, i.e. the degree to which cultural traits are preserved during transmission. I will discuss how the diffusion of online digital media increases both availability and fidelity, thus boosting the potential for cultural cumulation, possibly in domains where it was before limited." 
 
 Alberto Acerbi is a lecturer in Psychology at the Centre for Culture and Evolution, Brunel University London. His research interests are in cognitive and evolutionary anthropology, with a particular interest in computational science. Alberto recently wrote the book [“Cultural evolution in the digital age”](https://global.oup.com/academic/product/cultural-evolution-in-the-digital-age-9780198835943?cc=gb&lang=en&) for Oxford University Press.
-
+<p>&nbsp;</p>
 ### [Dr Paul Smart](http://paulsmart.cognosys.co.uk/)
 Paul Smart is a senior research fellow in Electronics and Computer Science at the University of Southampton. His research interests lie at the interface of the network, web and cognitive sciences. Paul’s [recent work](http://paulsmart.cognosys.co.uk/pubs/2017/Machine%20Intelligence%20and%20the%20Social%20Web.pdf?LMCL=ND9E1e) has explored the notion of ecological engineering/niche construction and the ‘evolution’ of human/machine intelligence, with the Internet/Web as a central topic of concern.
-
+<p>&nbsp;</p>
 ### [Professor James Hendler](https://en.wikipedia.org/wiki/James_Hendler)
 James Hendler is the Director of the Institute for Data Exploration and Applications and the Tetherless World Professor of Computer, Web and Cognitive Sciences at the Rensselaer Polytechnic Institute (RPI). James has authored over 400 books, technical papers and articles in areas such as the Semantic Web and artificial intelligence. One of his interests is the evolution of [social machines](https://www.sciencedirect.com/science/article/pii/S0004370209001404) through the accumulated knowledge and interactions of humankind.
-
+<p>&nbsp;</p>
 ### [Professor Wolfgang Nejdl](https://www.kbs.uni-hannover.de/~nejdl/)
 <p>&nbsp;</p>
 
