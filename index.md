@@ -24,6 +24,9 @@ Provisional Programme (UK time):
 ### Wolfgang Nejdl (tbc)  
 <p>&nbsp;</p>
 
+### Registration
+To register for this workshop as part of the WebSci'20 conference, please visit: https://websci20.webscience.org/
+
 ## Background
 
 In the recent decades, evolutionary approaches have been gathering momentum across academics from a wide range of disciplines that seek to understand the emergent diversity and complexity of technologies and cultural traits. The main premise of this research is that small-scale evolutionary mechanisms operate gradually to create changes that are observable on a larger scale ([Mesoudi, 2011](https://www.amazon.co.uk/Cultural-Evolution-Darwinian-Synthesize-Sciences/dp/0226520447)). This thinking complements the intention of Web Science to analyse the microscopic laws that generate emergent behaviour and patterns in the Web ([Berners-Lee et al, 2006](https://science.sciencemag.org/content/313/5788/769)). 
