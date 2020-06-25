@@ -1,6 +1,6 @@
 ### WebSci'20 Workshop:
 ## Evolutionary thinking for the Web
-
+---
 The Web has been the subject of compelling biological metaphors that liken it to an evolving ecosystem. Analogies of this kind could benefit from further theoretical and empirical examination. To address this, evolutionary and cognitive approaches provide not only a powerful theoretical framework, but also a heritage of robust analytic tools that help to quantify complex and subjective social and technological phenomena. The goal of this workshop will be to discuss how evolutionary approaches can inform our understanding of the Web at present, as well as methodological challenges and opportunities to shape its evolution into the future.   
 
 This half-day workshop (hosted online by the [Web Science conference](https://websci20.webscience.org/)) features an extended panel session with speakers who have been pioneering work at the intersection of evolution and the Web. The discussion will bring into conversation perspectives from evolutionary anthropology, cognitive sciences and engineering.
@@ -15,9 +15,11 @@ Provisional Programme (UK time):
 
 ### Registration
 To register for this workshop as part of the WebSci'20 conference, please visit: [https://websci20.webscience.org/](https://websci20.webscience.org/)
-
+<p>&nbsp;</p>
 
 ## Panellists:
+---
+
 ### [Dr Alberto Acerbi](https://acerbialberto.com/)
 ### “Cultural evolution on the web”
 "Cultural evolution - a byword for evolutionary and cognitive approaches to human culture - can provide a useful framework to understand how information is produced, transmitted, and selected on the web. Human culture is cumulative, meaning that it increases in complexity and efficiency from one generation to another, drawing on past innovations. Cumulation, however, differs depending on the specific domain. Two features of cultural systems impact the velocity and the robustness of cumulation: availability, i.e. the number of possible cultural traits one has access to, and fidelity of transmission, i.e. the degree to which cultural traits are preserved during transmission. I will discuss how the diffusion of online digital media increases both availability and fidelity, thus boosting the potential for cultural cumulation, possibly in domains where it was before limited." 
@@ -40,7 +42,7 @@ James Hendler is the Director of the Institute for Data Exploration and Applicat
 <p>&nbsp;</p>
 
 ## Background
-
+---
 In the recent decades, evolutionary approaches have been gathering momentum across academics from a wide range of disciplines that seek to understand the emergent diversity and complexity of technologies and cultural traits. The main premise of this research is that small-scale evolutionary mechanisms operate gradually to create changes that are observable on a larger scale ([Mesoudi, 2011](https://www.amazon.co.uk/Cultural-Evolution-Darwinian-Synthesize-Sciences/dp/0226520447)). This thinking complements the intention of Web Science to analyse the microscopic laws that generate emergent behaviour and patterns in the Web ([Berners-Lee et al, 2006](https://science.sciencemag.org/content/313/5788/769)). 
 
 Analogies between biological evolution and technological evolution are being used by social scientists who study digital media and software, as well as by engineers who build these systems. Similar to the role of genomes in living organisms, software encodes and transfers the information that determines how a technology functions and expresses itself ([Valverde, 2016](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2015.0450)). There is also socially generated information, whose transmission and accumulation can be traced online in ways that surpass offline media. Current topics of interest in this area include the spread of online misinformation, cognitive biases and echo chambers ([Acerbi, 2019](https://www.amazon.co.uk/Cultural-Evolution-Digital-Alberto-Acerbi/dp/0198835949); [Smart, 2018](https://link.springer.com/article/10.1007/s11229-017-1414-z)).
