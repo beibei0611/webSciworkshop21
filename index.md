@@ -28,7 +28,9 @@ Alberto Acerbi is a lecturer in Psychology at the Centre for Culture and Evoluti
 Paul Smart is a senior research fellow in Electronics and Computer Science at the University of Southampton. His research interests lie at the interface of the network, web and cognitive sciences. Paul’s [recent work](http://paulsmart.cognosys.co.uk/pubs/2017/Machine%20Intelligence%20and%20the%20Social%20Web.pdf?LMCL=ND9E1e) has explored the notion of ecological engineering/niche construction and the ‘evolution’ of human/machine intelligence, with the Internet/Web as a central topic of concern.
 <p>&nbsp;</p>
 
-### [Professor James Hendler](https://en.wikipedia.org/wiki/James_Hendler)
+### [Professor James Hendler](https://en.wikipedia.org/wiki/James_Hendler) - "The ever-changing Web: meeting the challenges of the semantic Web and the Web of broad data"
+"As the Web has grown, two key pieces of the evolving infrastructure has been the increasing use of “crowd sourcing” of information and the increasing use of open data available to web developers. One of the themes unifying these has been the increasing use of light-weight semantics helping to bring these together – whether in the form of linked data, knowledge graphs, or semantic web representations.  Looking towards the growth of these areas and the potential balkanization of the web needs to be an important aspect of the future of Web science."
+
 James Hendler is the Director of the Institute for Data Exploration and Applications and the Tetherless World Professor of Computer, Web and Cognitive Sciences at the Rensselaer Polytechnic Institute (RPI). James has authored over 400 books, technical papers and articles in areas such as the Semantic Web and artificial intelligence. One of his interests is the evolution of [social machines](https://www.sciencedirect.com/science/article/pii/S0004370209001404) through the accumulated knowledge and interactions of humankind.
 <p>&nbsp;</p>
 
