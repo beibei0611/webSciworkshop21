@@ -5,7 +5,7 @@ The Web has been the subject of compelling biological metaphors that liken it to
 
 
 ### Workshop date - July 7, 2020 
-### Provisional Programme (UK time):   
+### Provisional programme (UK time):   
 14:00 – 14:10   Workshop line opens: dial in & introductions   
 14:10 – 14:20   Welcome and introduction from the organisers   
 14:20 – 15:50   Individual panel presentations and Q&A  
@@ -51,7 +51,7 @@ Analogies between biological evolution and technological evolution are being use
 Insights from evolutionary and cognitive approaches hold promise for the future of machine intelligence ([Smart, 2017](http://paulsmart.cognosys.co.uk/pubs/2017/Machine%20Intelligence%20and%20the%20Social%20Web.pdf?LMCL=ND9E1e)), presenting challenges and opportunities to engineer infrastructures that support the accumulated knowledge and interactions of humankind ([Hendler, 2010](https://www.sciencedirect.com/science/article/pii/S0004370209001404)). Data sharing is central to this process, entailing additional matters of legal and ethical best practice for the structures that evolve through human data ([Wilson et al, 2016](https://dl.acm.org/doi/pdf/10.1145/2911187.2914579)).
 
 
-### Organisers
+### Workshop organisers:
 [Maria Priestley](https://www.ecs.soton.ac.uk/people/mp5g15), University of Southampton  
 [Dr Thanassis Tiropanis](https://www.ecs.soton.ac.uk/people/at1o07), University of Southampton  
 [Professor Tim Sluckin](https://www.southampton.ac.uk/maths/about/staff/tim.page), University of Southampton  
