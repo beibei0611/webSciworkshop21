@@ -1,12 +1,11 @@
 ### WebSci'20 Workshop:
 ## Evolutionary thinking for the Web
 ---
-The Web has been the subject of compelling biological metaphors that liken it to an evolving ecosystem. Analogies of this kind could benefit from further theoretical and empirical examination. To address this, evolutionary and cognitive approaches provide not only a powerful theoretical framework, but also a heritage of robust analytic tools that help to quantify complex and subjective social and technological phenomena. The goal of this workshop will be to discuss how evolutionary approaches can inform our understanding of the Web at present, as well as methodological challenges and opportunities to shape its evolution into the future.   
+The Web has been the subject of compelling biological metaphors that liken it to an evolving ecosystem. Analogies of this kind could benefit from further theoretical and empirical examination. To address this, evolutionary and cognitive approaches provide not only a powerful theoretical framework, but also a heritage of robust analytic tools that help to quantify complex and subjective social and technological phenomena. This half-day workshop (hosted online by the [Web Science conference](https://websci20.webscience.org/)) will feature an extended panel session with speakers who have been pioneering work at the intersection of evolution and the Web. The discussion will bring into conversation perspectives from evolutionary anthropology, cognitive sciences and engineering. Our goal will be to discuss how evolutionary approaches can inform our understanding of the Web at present, as well as methodological challenges and opportunities to shape its evolution into the future.   
 
-This half-day workshop (hosted online by the [Web Science conference](https://websci20.webscience.org/)) features an extended panel session with speakers who have been pioneering work at the intersection of evolution and the Web. The discussion will bring into conversation perspectives from evolutionary anthropology, cognitive sciences and engineering.
 
 ### Workshop date - July 7, 2020 
-Provisional Programme (UK time):   
+### Provisional Programme (UK time):   
 14:00 – 14:10   Workshop line opens: dial in & introductions   
 14:10 – 14:20   Welcome and introduction from the organisers   
 14:20 – 15:50   Individual panel presentations and Q&A  
@@ -28,6 +27,7 @@ Alberto Acerbi is a lecturer in Psychology at the Centre for Culture and Evoluti
 <p>&nbsp;</p>
 
 ### [Dr Paul Smart](http://paulsmart.cognosys.co.uk/)
+### "Designer Environments"
 Paul Smart is a senior research fellow in Electronics and Computer Science at the University of Southampton. His research interests lie at the interface of the network, web and cognitive sciences. Paul’s [recent work](http://paulsmart.cognosys.co.uk/pubs/2017/Machine%20Intelligence%20and%20the%20Social%20Web.pdf?LMCL=ND9E1e) has explored the notion of ecological engineering/niche construction and the ‘evolution’ of human/machine intelligence, with the Internet/Web as a central topic of concern.
 <p>&nbsp;</p>
 
@@ -39,6 +39,7 @@ James Hendler is the Director of the Institute for Data Exploration and Applicat
 <p>&nbsp;</p>
 
 ### [Professor Wolfgang Nejdl](https://www.kbs.uni-hannover.de/~nejdl/)
+Wolfgang Nejdl is a professor of computer science at the University of Hannover. He heads the Information Systems Institute / [Knowledge Based Systems](www.kbs.uni-hannover.de) as well as the [L3S Research Center](www.l3s.de). His research interests are in the areas of semantic web technologies, peer-to-peer information systems, adaptive hypermedia systems and artificial intelligence. 
 <p>&nbsp;</p>
 
 ## Background
@@ -51,7 +52,7 @@ Insights from evolutionary and cognitive approaches hold promise for the future 
 
 
 ### Organisers
-[Miss Maria Priestley](https://www.ecs.soton.ac.uk/people/mp5g15), University of Southampton  
+[Maria Priestley](https://www.ecs.soton.ac.uk/people/mp5g15), University of Southampton  
 [Dr Thanassis Tiropanis](https://www.ecs.soton.ac.uk/people/at1o07), University of Southampton  
 [Professor Tim Sluckin](https://www.southampton.ac.uk/maths/about/staff/tim.page), University of Southampton  
 
