@@ -52,6 +52,8 @@ Analogies between biological evolution and technological evolution are being use
 
 Insights from evolutionary and cognitive approaches hold promise for the future of machine intelligence ([Smart, 2017](http://paulsmart.cognosys.co.uk/pubs/2017/Machine%20Intelligence%20and%20the%20Social%20Web.pdf?LMCL=ND9E1e)), presenting challenges and opportunities to engineer infrastructures that support the accumulated knowledge and interactions of humankind ([Hendler, 2010](https://www.sciencedirect.com/science/article/pii/S0004370209001404)). Data sharing is central to this process, entailing additional matters of legal and ethical best practice for the structures that evolve through human data ([Wilson et al, 2016](https://dl.acm.org/doi/pdf/10.1145/2911187.2914579)).
 
+This interdisciplinary workshop will bring together a panel of pioneering experts who study Web evolution through the lenses of anthropology, philosophy, cognitive science and computer science. Our aim is to establish collaboration and increase the visibility of evolutionary approaches in Web Science.
+
 
 ### Workshop organisers:
 [Maria Priestley](https://www.ecs.soton.ac.uk/people/mp5g15), University of Southampton  
