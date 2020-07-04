@@ -41,7 +41,17 @@ James Hendler is the Director of the Institute for Data Exploration and Applicat
 <p>&nbsp;</p>
 
 ### [Professor Wolfgang Nejdl](https://www.kbs.uni-hannover.de/~nejdl/)
-Wolfgang Nejdl is a professor of computer science at the University of Hannover. He heads the Information Systems Institute / [Knowledge Based Systems](www.kbs.uni-hannover.de) as well as the [L3S Research Center](www.l3s.de). His research interests are in the areas of semantic web technologies, peer-to-peer information systems, adaptive hypermedia systems and artificial intelligence. 
+### "Harnessing the Web  for Computer Science and the Social Sciences"
+
+"How would a comprehensive research data infrastructure providing web data look like? This presentation provides some ideas towards such an infrastructure, based upon existing sources like the archive.org, Web and social media crawls, online bibliographies, and others, and connected to initiatives and projects like SoBigData++, Alexandria and NFDI4DataScience."
+
+Prof. Dr. Wolfgang Nejdl (born 1960) has been full professor of computer science at the University of Hannover since 1995.  He received his M.Sc. (1984) and Ph.D. degree (1988) at the Technical University of Vienna, was assistant professor in Vienna from 1988 to 1992, and associate professor at the RWTH Aachen from 1992 to 1995.
+He worked as visiting researcher / professor at Xerox PARC, Stanford University, University of Illinois at Urbana-Champaign, EPFL Lausanne, PUC Rio, Milano and Trento.
+
+Prof. Nejdl heads the [L3S Research Center](www.l3s.de), as well as the Distributed Systems Institute / Knowledge Based Systems, and does research in the areas of Information Retrieval, Web Science, Artificial Intelligence, Social and Semantic Web, Digital Libraries and Technology Enhanced Learning.  He was PI of the ERC Advanced Grant ALEXANDRIA, from 2014 - 2019, working on foundations for temporal retrieval, exploration and analytics in Web archives. Current projects include NoBIAS, SoBigData++, IIP-Ecosphere and the International Leibniz Future Lab on Artificial Intelligence.
+
+[Wolfgang Nejdl](https://www.kbs.uni-hannover.de/~nejdl/) published more than 390 scientific articles, as listed at DBLP, with an h-index (based on Google Scholar) of 72.
+
 <p>&nbsp;</p>
 
 ## Background
