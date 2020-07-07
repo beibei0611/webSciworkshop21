@@ -9,9 +9,9 @@ The Web has been the subject of compelling biological metaphors that liken it to
 14:00 – 14:10   Workshop line opens: dial in & introductions   
 14:10 – 14:20   Welcome and introduction from the organisers   
 14:20 – 15:20   Individual panel presentations and Q&A  
-15:20 – 15:30 	Coffee break
-15:30 – 16:50 	Roundtable discussion
-16:50 – 17:00 	Closing remarks
+15:20 – 15:30 	Coffee break  
+15:30 – 16:50 	Roundtable discussion  
+16:50 – 17:00 	Closing remarks  
 
 ### Registration
 To register for this workshop as part of the WebSci'20 conference, please visit: [https://websci20.webscience.org/](https://websci20.webscience.org/)
