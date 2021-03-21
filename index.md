@@ -80,3 +80,7 @@ No, this workshop has not been held in the past.
 ## Requirements:
 ---
 The workshop will be delivered online, hence there are no special requirements for participants.
+
+## Summary:
+---
+to be confirmed……
