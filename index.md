@@ -9,16 +9,16 @@ Then how do we improve or adjust our web system to alleviate the existing issue,
 
 
 ### Programme Committe:
-Professor Tuo Leng (Shanghai University) 
-Professor Xiaodong Yue (Shanghai University) 
-Professor Yinmin Wang (Shanghai University) 
-Professor Yin Li (Shanghai University)
+Professor Tuo Leng (Shanghai University)  
+Professor Xiaodong Yue (Shanghai University)  
+Professor Yinmin Wang (Shanghai University)  
+Professor Yin Li (Shanghai University)  
 
 ### Organizing Committe:   
-Tuo Leng (Shanghai University) 
-Xiaodong Yue (Shanghai University) 
-Runan Wang  (Shanghai University) 
-Yifan Wang  (Shanghai University) 
+Tuo Leng (Shanghai University)  
+Xiaodong Yue (Shanghai University)  
+Runan Wang  (Shanghai University)  
+Yifan Wang  (Shanghai University)  
 Yiwen Huang  (Shanghai University)  
 
 ### Registration
@@ -41,18 +41,18 @@ Our goal is to develop Human-Centered AI (HAI) around the core and multidiscipli
 ## Schedule:
 ---
 ### 24th June Morning
-Keynote 1: 10:00-10:30<br>
-Keynote 2: 10:30-11:00<br>
-Keynote 3: 11:00-11:30<br>
+Keynote 1: 10:00-10:30  
+Keynote 2: 10:30-11:00  
+Keynote 3: 11:00-11:30  
 
 ### 24th June Afternoon
-Oral Presentation 1: 14:00-14:20<br>
-Oral Presentation 2: 14:20-14:40
-Oral Presentation 3: 14:40-15:00
-Oral Presentation 4: 15:00-15:20
-Oral Presentation 5: 15:20-15:40
-Oral Presentation 6: 15:40-16:00
-Panel Discussion and Best Paper Reward: 16:00-17:00 
+Oral Presentation 1: 14:00-14:20  
+Oral Presentation 2: 14:20-14:40  
+Oral Presentation 3: 14:40-15:00  
+Oral Presentation 4: 15:00-15:20  
+Oral Presentation 5: 15:20-15:40  
+Oral Presentation 6: 15:40-16:00  
+Panel Discussion and Best Paper Reward: 16:00-17:00   
 <p>&nbsp;</p>
 
 ## Target Audience:
