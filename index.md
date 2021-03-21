@@ -41,12 +41,12 @@ Our goal is to develop Human-Centered AI (HAI) around the core and multidiscipli
 ## Schedule:
 ---
 ### 24th June Morning
-Keynote 1: 10:00-10:30
-Keynote 2: 10:30-11:00
-Keynote 3: 11:00-11:30
+Keynote 1: 10:00-10:30<br>
+Keynote 2: 10:30-11:00<br>
+Keynote 3: 11:00-11:30<br>
 
 ### 24th June Afternoon
-Oral Presentation 1: 14:00-14:20
+Oral Presentation 1: 14:00-14:20<br>
 Oral Presentation 2: 14:20-14:40
 Oral Presentation 3: 14:40-15:00
 Oral Presentation 4: 15:00-15:20
@@ -64,13 +64,16 @@ Researchers who work or have interests in Web Science, Data Science, Data Econom
 ---
 English, Chinese
 
+
 ## Main Time Zone: 
 ---
 GMT+8, (Beijing, Shanghai)  
 
+
 ## Related History:
 ---
 No, this workshop has not been held in the past.
+
 
 ## Requirements:
 ---
