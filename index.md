@@ -81,6 +81,6 @@ No, this workshop has not been held in the past.
 ---
 The workshop will be delivered online, hence there are no special requirements for participants.
 
-## Summary:
+## Call for papers:
 ---
 to be confirmed……
