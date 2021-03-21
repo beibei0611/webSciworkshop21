@@ -37,6 +37,7 @@ By this workshop, we hope some sparkles from the world-leading insightful minds 
 
 ### Goals:
 Our goal is to develop Human-Centered AI (HAI) around the core and multidisciplinary nature of Web Science. To discuss in the context of some global challenges such as COVID-19 is the key to embedding a new paradigm of AI into the after-pandemic world. More importantly, Web-based data, structures, and skills should guide AI to enhance our humanity, not to reduce or replace it.
+<img src="An_extended_HAI_framework.png" alt="Logo" />
 
 ## Schedule:
 ---
@@ -51,7 +52,7 @@ Oral Presentation 2: 14:20-14:40
 Oral Presentation 3: 14:40-15:00  
 Oral Presentation 4: 15:00-15:20  
 Oral Presentation 5: 15:20-15:40  
-Oral Presentation 6: 15:40-16:00  
+Oral Presentation 6: 15:40-16:00    
 Panel Discussion and Best Paper Reward: 16:00-17:00   
 <p>&nbsp;</p>
 
