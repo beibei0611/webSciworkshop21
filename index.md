@@ -83,4 +83,4 @@ The workshop will be delivered online, hence there are no special requirements f
 
 ## Call for papers:
 ---
-to be confirmed……
+TBC
