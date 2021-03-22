@@ -1,4 +1,4 @@
-### Human-Centered Data, Modeling, and AI:
+## Human-Centered Data, Modeling, and AI
 ## Summary:
 ---
 We have reached a truly historic turning point, human society is being reshaped faster and more profoundly by technology. Started from the birth of the World Wide Web, driven by the rapidly growing data and computing power, the most disruptive changes can be traced back to the recent development of Artificial Intelligence (AI).
