@@ -49,19 +49,15 @@ Here is our provisional schedule:
 **22th June Morning**  
 Keynote 1: 10:00-10:30  
 Keynote 2: 10:30-11:00  
-Keynote 3: 11:00-11:30
+Keynote 3: 11:00-11:30 
+
 **Afternoon**  
 Oral Presentation 1: 14:00-14:20  
-Oral Presentation 2: 14:20-14:40
-
-Oral Presentation 3: 14:40-15:00
-
-Oral Presentation 4: 15:00-15:20
-
-Oral Presentation 5: 15:20-15:40
-
+Oral Presentation 2: 14:20-14:40  
+Oral Presentation 3: 14:40-15:00  
+Oral Presentation 4: 15:00-15:20  
+Oral Presentation 5: 15:20-15:40  
 Oral Presentation 6: 15:40-16:00
-
 
 ---
 # Call for Papers
@@ -105,6 +101,6 @@ Language: English
 ---
 To register for this workshop as part of the WebSci'20 conference, please visit: [https://websci20.webscience.org/](https://websci20.webscience.org/)
 ## Contact Details
-The main point of contact for this workshop is the SHU Machine Proof Group Coodinator/SHU WSTNet Lab Vice Director,  
+&emsp;&emsp;The main point of contact for this workshop is the SHU Machine Proof Group Coodinator/SHU WSTNet Lab Vice Director,  
 Professor Tuo Leng  
 tleng@shu.edu.cn
