@@ -2,7 +2,7 @@
 ---
 # The Workshop:
 ---
-  We have reached a truly historic turning point, human society is being reshaped faster and more profoundly by technology. Started from the birth of the World Wide Web, driven by the rapidly growing data and computing power, the most disruptive changes can be traced back to the recent development of Artificial Intelligence (AI). Like any powerful tool, AI promises the same level of risk and reward. 
+&emsp;&emsp;We have reached a truly historic turning point, human society is being reshaped faster and more profoundly by technology. Started from the birth of the World Wide Web, driven by the rapidly growing data and computing power, the most disruptive changes can be traced back to the recent development of Artificial Intelligence (AI). Like any powerful tool, AI promises the same level of risk and reward. 
    
   In the past 10 years, the development and use of AI is a decentralized global phenomenon with relatively low barriers to entry. We have seen that AI-generated content makes it more and more difficult to tell facts from the fiction; recent examples of machine learning deviations showed how our technology can easily magnify prejudice and inequality. Therefore, the frontier of AI cannot be just technology, it must also be humanistic.
    
