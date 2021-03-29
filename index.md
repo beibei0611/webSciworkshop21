@@ -1,6 +1,6 @@
 ## Human-Centered Data, Modeling, and AI
 ---
-#The Workshop:
+# The Workshop:
 ---
    We have reached a truly historic turning point, human society is being reshaped faster and more profoundly by technology. Started from the birth of the World Wide Web, driven by the rapidly growing data and computing power, the most disruptive changes can be traced back to the recent development of Artificial Intelligence (AI). Like any powerful tool, AI promises the same level of risk and reward. 
 
@@ -40,6 +40,7 @@ Our goal is to develop Human-Centered AI (HAI) around the core and multidiscipli
 + Runan Wang  (Shanghai University)  
 + Yifan Wang  (Shanghai University)  
 + Yiwen Huang  (Shanghai University)  
+
 ---
 # Provisional Programme
 ---
@@ -70,9 +71,11 @@ Oral Presentation 5: 15:20-15:40
 
 Oral Presentation 6: 15:40-16:00
 
-      Panel Discussion and Best Paper Reward: 16:00-17:00 
+  Panel Discussion and Best Paper Reward: 16:00-17:00
 
+---
 # Call for Papers
+---
    Our goal is to develop Human-Centered AI (HAI) around the core and multidisciplinary nature of Web Science. To discuss in the context of some global challenges such as COVID-19 is the key to embedding a new paradigm of AI into the after-pandemic world. More importantly, Web-based data, structures, and skills should guide AI to enhance our humanity, not to reduce or replace it. 
 
    By this workshop, we hope some sparkles from the world-leading insightful minds that can inspire the participants' research on a new Reasonable, Interpretable, and Human-Centered AI paradigm. Hence building on our theme for 2021, we welcome work that explores the ethics of Web-based data collection and research, such as**Data Science, Data Economy, Data Mining, Privacy-Preserving, Anti-Bias Modeling, Machine Learning, Automated Reasoning, Visualization Interactions, Natural Language Processing, Conversational AI, Machine Ethics, Value Alignment, AI Morality** and more. 
@@ -124,9 +127,10 @@ All contributions will be judged by the Program Committee upon rigorous peer rev
 For authors who wish to opt-out of publication proceedings, this option will be made available upon acceptance. This will encourage the participation of researchers from the social sciences that prefer to publish their work as journal articles. All authors of accepted papers (including those who opt out of proceedings) are expected to present their work (virtually) at the conference. 
 
 # Registration
+---
 To register for this workshop as part of the WebSci'20 conference, please visit: [https://websci20.webscience.org/](https://websci20.webscience.org/)
 
-# Contact Details
+## Contact Details
 The main point of contact for this workshop is the SHU Machine Proof Group Coodinator/SHU WSTNet Lab Vice Director,
 Professor Tuo Leng
 tleng@shu.edu.cn
