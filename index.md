@@ -3,22 +3,26 @@
 # The Workshop:
 ---
    We have reached a truly historic turning point, human society is being reshaped faster and more profoundly by technology. Started from the birth of the World Wide Web, driven by the rapidly growing data and computing power, the most disruptive changes can be traced back to the recent development of Artificial Intelligence (AI). Like any powerful tool, AI promises the same level of risk and reward. 
+   
    In the past 10 years, the development and use of AI is a decentralized global phenomenon with relatively low barriers to entry. We have seen that AI-generated content makes it more and more difficult to tell facts from the fiction; recent examples of machine learning deviations showed how our technology can easily magnify prejudice and inequality. Therefore, the frontier of AI cannot be just technology, it must also be humanistic.
+   
    Then how do we improve or adjust our web system to alleviate the existing issue, to help AI becoming more humanistic? Like, how do we preserving privacy when we design a new social network? How do we obtain unbiased sampling in temporal and spatial dimensions, or semantic dimensions? How do we establish anti-bias learning models to avoid Ecological Fallacy? Particularly, when social media are not only offering almost infinite data to related subjects but also influence both online and offline user behavior in a various way, itself should play a vital role on every aspect of human-centered data, modeling, and AI. 
 ## Key Dates:
-    + workshop At WebSci21: 22th June 2021 10:00 - 17:00 
+   ● workshop At WebSci21: 22th June 2021 10:00 - 17:00 
 ## Requirements:
-    The workshop will be delivered online, hence there are no special requirements for participants.
+   The workshop will be delivered online, hence there are no special requirements for participants.
 
 ---
 # Keynotes Abstract
 ---
 ## Motivation:
-Despite the enormous data brought by the Web, the quality of social network data is often difficult to guarantee. In addition to the representativeness of the data itself, the process of obtaining data usually runs into biased sampling in statistics, temporal-spatial dimensions, or even semantic dimensions. Thus the conclusions and decisions obtained may remain unaccountable. Recent works on Counterfactual and Casual Reasoning show a very positive result on anti-bias modeling, yet the whole interdisciplinary field is still under-explored.
-On the other hand, although social media data is mega in size, the data dimension is usually relatively single and is considered a kind of "thin data". For instance, we can easily obtain the user's social media content, but the age, gender, occupation, and other more detailed information is still hard to observe. This will cause modeling to easily fall into "Ecological Fallacy". Therefore the privacy preserving and related ethic discussion have been integrated into much intersectional research. For instance, the combination of Differential Privacy and Generative Adversarial Networks (GAN) in recent work is showing the ability to alleviate the issue.
-By this workshop, we hope some sparkles from the world-leading insightful minds that can inspire the participants' research on a new Reasonable, Interpretable, and Human-Centered AI paradigm. 
+   Despite the enormous data brought by the Web, the quality of social network data is often difficult to guarantee. In addition to the representativeness of the data itself, the process of obtaining data usually runs into biased sampling in statistics, temporal-spatial dimensions, or even semantic dimensions. Thus the conclusions and decisions obtained may remain unaccountable. Recent works on Counterfactual and Casual Reasoning show a very positive result on anti-bias modeling, yet the whole interdisciplinary field is still under-explored.
+   
+   On the other hand, although social media data is mega in size, the data dimension is usually relatively single and is considered a kind of "thin data". For instance, we can easily obtain the user's social media content, but the age, gender, occupation, and other more detailed information is still hard to observe. This will cause modeling to easily fall into "Ecological Fallacy". Therefore the privacy preserving and related ethic discussion have been integrated into much intersectional research. For instance, the combination of Differential Privacy and Generative Adversarial Networks (GAN) in recent work is showing the ability to alleviate the issue.
+   
+   By this workshop, we hope some sparkles from the world-leading insightful minds that can inspire the participants' research on a new Reasonable, Interpretable, and Human-Centered AI paradigm. 
 ## Goals:
-Our goal is to develop Human-Centered AI (HAI) around the core and multidisciplinary nature of Web Science. To discuss in the context of some global challenges such as COVID-19 is the key to embedding a new paradigm of AI into the after-pandemic world. More importantly, Web-based data, structures, and skills should guide AI to enhance our humanity, not to reduce or replace it.
+   Our goal is to develop Human-Centered AI (HAI) around the core and multidisciplinary nature of Web Science. To discuss in the context of some global challenges such as COVID-19 is the key to embedding a new paradigm of AI into the after-pandemic world. More importantly, Web-based data, structures, and skills should guide AI to enhance our humanity, not to reduce or replace it.
 <img src="An_extended_HAI_framework.png" alt="Logo" />
 
 ---
@@ -58,7 +62,9 @@ Oral Presentation 6: 15:40-16:00
 # Call for Papers
 ---
    Our goal is to develop Human-Centered AI (HAI) around the core and multidisciplinary nature of Web Science. To discuss in the context of some global challenges such as COVID-19 is the key to embedding a new paradigm of AI into the after-pandemic world. More importantly, Web-based data, structures, and skills should guide AI to enhance our humanity, not to reduce or replace it. 
+   
    By this workshop, we hope some sparkles from the world-leading insightful minds that can inspire the participants' research on a new Reasonable, Interpretable, and Human-Centered AI paradigm. Hence building on our theme for 2021, we welcome work that explores the ethics of Web-based data collection and research, such as**Data Science, Data Economy, Data Mining, Privacy-Preserving, Anti-Bias Modeling, Machine Learning, Automated Reasoning, Visualization Interactions, Natural Language Processing, Conversational AI, Machine Ethics, Value Alignment, AI Morality** and more. 
+   
    More broadly, possible topics for submissions include (but are not limited to) the following:
 ● Have a broader perspective on the Web and that combine analyses of Web data and other types of data (e.g., from surveys or interviews) to better understand user behaviour (i.e., online and offline)
 ● Interrogate questions of discrimination, representation, and fairness
@@ -74,13 +80,19 @@ Oral Presentation 6: 15:40-16:00
 ● Web economics, social entrepreneurship, and innovation
 ● Analysis of online social and information networks
 ● Health, politics, and education on the Web
+
 ## Format of the Submissions
 Language: English
    Please upload your submissions via TBC.
+   
    The ACM Web Science Conference will run as an online conference, where authors will present their work remotely to online participants. There is one type of submission: All contributors will submit an abstract (max 400 words) followed by a full paper.
+   
    The authors shall adopt the current ACM SIG Conference proceedings template (acmart.cls). Please submit papers as PDF files using the ACM Submission template (single column). To create your PDF submission, you may use either Microsoft Word format or the ACM LaTeX template on Overleaf (ACM Conference Proceedings “Master” Template) using the “manuscript” option. A full description of the procedure can be found in this link (https://www.acm.org/publications/taps/word-template-workflow). For the review process, manuscripts should be of approx. 9-13 pages length single column (inclusive of references, appendices, etc.).
+   
    Please note that accepted papers will later be re-formatted with the sigconf style (double column) at camera-ready time. When changing to this style manuscripts may also need to be adjusted to the corresponding final page limit of between 6 and 10 pages (inclusive of references, appendices, etc.).
+   
    All contributions will be judged by the Program Committee upon rigorous peer review standards for quality and fit the conference, by at least three referees. We will adopt a single-blind review process. Do not anonymize your submissions. Submissions without authorship information will be desk-rejected without review.
+   
    For authors who wish to opt-out of publication proceedings, this option will be made available upon acceptance. This will encourage the participation of researchers from the social sciences that prefer to publish their work as journal articles. All authors of accepted papers (including those who opt out of proceedings) are expected to present their work (virtually) at the conference. 
 
 ---
