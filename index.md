@@ -101,6 +101,6 @@ Language: English
 ---
 To register for this workshop as part of the WebSci'20 conference, please visit: [https://websci20.webscience.org/](https://websci20.webscience.org/)
 ## Contact Details
-&emsp;&emsp;The main point of contact for this workshop is the SHU Machine Proof Group Coodinator/SHU WSTNet Lab Vice Director,  
+The main point of contact for this workshop is the SHU Machine Proof Group Coodinator/SHU WSTNet Lab Vice Director,  
 Professor Tuo Leng  
 tleng@shu.edu.cn
